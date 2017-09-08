@@ -44,3 +44,7 @@
 .first {
   margin-left: 0%;
 }
+
+.fixed-height{
+  height: 618px;
+}
